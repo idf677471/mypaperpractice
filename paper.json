@@ -3,6 +3,7 @@
     "code": "#0423ACH",
     "title": "Chemistry Paper",
     "date": "2025-07-28",
+    "subject": "Math",
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/1.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/2.jpg",
@@ -16,6 +17,7 @@
     "code": "PAPER002",
     "title": "Science Paper 2 - 29 July",
     "date": "2025-07-29",
+    "subject": "Chemistry",
     "images": [
       "https://example.com/papers/PAPER002/img1.jpg"
     ]
