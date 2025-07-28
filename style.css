@@ -1,0 +1,97 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  background: #f5f6fa;
+  color: #222;
+}
+
+header {
+  background: #003366;
+  color: white;
+  padding: 1em;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#paper-list {
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.paper-card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  padding: 1em;
+}
+
+.paper-code {
+  color: #007bff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.image-grid img {
+  width: 100px;
+  height: auto;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+/* Popup gallery */
+#popup {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  flex-direction: column;
+}
+
+#popup img {
+  max-width: 90%;
+  max-height: 80%;
+  border-radius: 10px;
+}
+
+#close-btn, #nav-left, #nav-right {
+  position: absolute;
+  color: white;
+  font-size: 2em;
+  cursor: pointer;
+  user-select: none;
+}
+
+#close-btn {
+  top: 20px;
+  right: 30px;
+}
+
+#nav-left {
+  left: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#nav-right {
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.hidden {
+  display: none;
+}
