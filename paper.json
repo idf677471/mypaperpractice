@@ -136,6 +136,19 @@
     ]
   },
   {
+    "code": "#1024AEN",
+    "title": "English Paper",
+    "date": "",
+    "subject": "English",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/5.jpg"
+    ]
+  },
+  {
     "code": "#0424BMA",
     "title": "Math Paper",
     "date": "",
