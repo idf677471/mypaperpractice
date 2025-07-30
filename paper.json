@@ -474,7 +474,7 @@
   {
     "code": "#1022ADE",
     "title": "Data Entry Paper",
-    "date": "2025-07-27",
+    "date": "2025-07-28",
     "subject": "Data Entry",
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022ade/1.jpg",
@@ -482,5 +482,15 @@
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022ade/3.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022ade/4.jpg"
     ]
+  },
+  {
+    "code": "Updating....",
+    "title": "Physics Paper",
+    "date": "2025-07-29",
+    "subject": "Physics",
+    "images": [
+      
+    ]
   }
+
 ]
