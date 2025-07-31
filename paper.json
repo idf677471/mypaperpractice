@@ -496,9 +496,22 @@
     ]
   },
   {
+    "code": "#0423BPH",
+    "title": "Physics Paper",
+    "date": "2025-07-29",
+    "subject": "Physics",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423bph/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423bph/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423bph/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423bph/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423bph/5.jpg"
+    ]
+  },
+  {
     "code": "Updating....",
     "title": "updating",
-    "date": "2025-07-29",
+    "date": "2025-07-30",
     "subject": "update",
     "images": [
       
