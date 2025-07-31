@@ -509,13 +509,16 @@
     ]
   },
   {
-    "code": "Updating....",
-    "title": "updating",
+    "code": "#1022ACH",
+    "title": "Chemistry Paper",
     "date": "2025-07-30",
-    "subject": "update",
+    "subject": "Chemistry",
     "images": [
-      
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022ach/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022ach/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022ach/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022ach/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022ach/5.jpg"
     ]
   }
-
 ]
