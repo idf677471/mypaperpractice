@@ -149,20 +149,20 @@
     ]
   },
   {
-    "code": "#0424BMA",
+    "code": "#0423BMA",
     "title": "Math Paper",
     "date": "2025-07-13",
     "subject": "Math",
     "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0424bma/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0424bma/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0424bma/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0424bma/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0424bma/5.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0424bma/6.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0424bma/7.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0424bma/8.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0424bma/9.jpg"
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/6.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/7.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/8.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/9.jpg"
     ]
   },
   {
@@ -519,6 +519,21 @@
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022ach/3.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022ach/4.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022ach/5.jpg"
+    ]
+  },
+  {
+    "code": "#0423CMA",
+    "title": "Math Paper",
+    "date": "2025-07-31",
+    "subject": "Math",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423cma/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423cma/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423cma/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423cma/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423cma/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423cma/6.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423cma/7.jpg"
     ]
   }
 ]
