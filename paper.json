@@ -535,5 +535,16 @@
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423cma/6.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423cma/7.jpg"
     ]
+  },
+  {
+    "_disabled_jee_paper": {
+    "code": "update soon",
+    "title": "Jee Paper",
+    "date": "2025-08-01",
+    "subject": "Jee",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-08-01.png"
+    ]
+  }
   }
 ]
