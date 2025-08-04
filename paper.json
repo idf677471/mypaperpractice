@@ -553,5 +553,17 @@
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-08-02.jpg"
     ]
+  },
+  {
+    "code": "#1024BEN",
+    "title": "English Paper",
+    "date": "2025-08-03",
+    "subject": "English",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024ben/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024ben/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024ben/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024ben/4.jpg"
+    ]
   }
 ]
