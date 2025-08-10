@@ -1,17 +1,5 @@
 [
   {
-    "code": "#0221BPH",
-    "title": "Physics Paper",
-    "date": "2025-06-18",
-    "subject": "Physics",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0221bph/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0221bph/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0221bph/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0221bph/4.jpg"
-    ]
-  },
-  {
     "code": "#SSP1MA",
     "title": "Math Paper",
     "date": "",
@@ -22,317 +10,6 @@
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/SSP1ma/3.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/SSP1ma/4.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/SSP1ma/5.jpg"
-    ]
-  },
-  {
-    "code": "#0423ACH",
-    "title": "Chemistry Paper",
-    "date": "2025-07-02",
-    "subject": "Chemistry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/5.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/6.jpg"
-    ]
-  },
-  {
-    "code": "#0423ADE",
-    "title": "Data Entry Paper",
-    "date": "2025-06-29",
-    "subject": "Data Entry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423ade/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423ade/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423ade/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423ade/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423ade/5.jpg"
-    ]
-  },
-  {
-    "code": "#0423AMA",
-    "title": "Math Paper",
-    "date": "2025-07-03",
-    "subject": "Math",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/5.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/6.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/7.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/8.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/9.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/10.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/11.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/12.jpg"
-    ]
-  },
-  {
-    "code": "#0423APH",
-    "title": "Physics Paper",
-    "date": "2025-07-16",
-    "subject": "Physics",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423aph/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423aph/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423aph/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423aph/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423aph/5.jpg"
-    ]
-  },
-  {
-    "code": "#0423BDE",
-    "title": "Data Entry Paper",
-    "date": "2025-07-05",
-    "subject": "Data Entry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423bde/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423bde/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423bde/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423bde/4.jpg"
-    ]
-  },
-  {
-    "code": "#0423CCH",
-    "title": "Chemistry Paper",
-    "date": "2025-07-19",
-    "subject": "Chemistry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423cch/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423cch/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423cch/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423cch/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423cch/5.jpg"
-    ]
-  },
-  {
-    "code": "#0423CDE",
-    "title": "Data Entry Paper",
-    "date": "2025-07-08",
-    "subject": "Data Entry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423cde/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423cde/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423cde/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423cde/4.jpg"
-    ]
-  },
-  {
-    "code": "#0424BCH",
-    "title": "Chemistry Paper",
-    "date": "2025-07-11",
-    "subject": "Chemistry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/5.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/6.jpg"
-    ]
-  },
-  {
-    "code": "#1024AEN",
-    "title": "English Paper",
-    "date": "2025-07-14",
-    "subject": "English",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/5.jpg"
-    ]
-  },
-  {
-    "code": "#0423BMA",
-    "title": "Math Paper",
-    "date": "2025-07-13",
-    "subject": "Math",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/5.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/6.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/7.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/8.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/9.jpg"
-    ]
-  },
-  {
-    "code": "#1022APH",
-    "title": "Physics Paper",
-    "date": "2025-06-24",
-    "subject": "Physics",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/5.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/6.jpg"
-    ]
-  },
-  {
-    "code": "#1024ACH",
-    "title": "Chemistry Paper",
-    "date": "2025-06-13",
-    "subject": "Chemistry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024ach/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024ach/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024ach/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024ach/4.jpg"
-    ]
-  },
-  {
-    "code": "#1024ADE",
-    "title": "Data Entry Paper",
-    "date": "2025-06-08",
-    "subject": "Data Entry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024ade/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024ade/2.jpg"
-    ]
-  },
-  {
-    "code": "#SSP1EN",
-    "title": "English Paper",
-    "date": "2025-07-07",
-    "subject": "English",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/SSP1en/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/SSP1en/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/SSP1en/3.jpg"
-    ]
-  },
-  {
-    "code": "#1024AMA",
-    "title": "Math Paper",
-    "date": "2025-06-14",
-    "subject": "Math",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/5.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/6.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/7.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/8.jpg"
-    ]
-  },
-  {
-    "code": "#1024APH",
-    "title": "Physics Paper",
-    "date": "2025-06-10",
-    "subject": "Physics",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024aph/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024aph/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024aph/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024aph/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024aph/5.jpg"
-    ]
-  },
-  {
-    "code": "#1024BCH",
-    "title": "Chemistry Paper",
-    "date": "2025-06-19",
-    "subject": "Chemistry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024bch/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024bch/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024bch/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024bch/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024bch/5.jpg"
-    ]
-  },
-  {
-    "code": "#1024BMA",
-    "title": "Math Paper",
-    "date": "2025-06-20",
-    "subject": "Math",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/5.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/6.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/7.jpg"
-    ]
-  },
-  {
-    "code": "#1024BPH",
-    "title": "Physics Paper",
-    "date": "2025-07-01",
-    "subject": "Physics",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/5.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/6.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/7.jpg"
-    ]
-  },
-  {
-    "code": "#1024BDE",
-    "title": "Data Entry Paper",
-    "date": "2025-06-16",
-    "subject": "Data Entry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024bde/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024bde/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024bde/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024bde/4.jpg"
-    ]
-  },
-  {
-    "code": "#1024CCH",
-    "title": "Chemistry Paper",
-    "date": "2025-06-25",
-    "subject": "Chemistry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024cch/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024cch/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024cch/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024cch/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024cch/5.jpg"
-    ]
-  },
-  {
-    "code": "#1024CDE",
-    "title": "Data Entry Paper",
-    "date": "2025-06-21",
-    "subject": "Data Entry",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024cde/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024cde/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024cde/3.jpg"
-    ]
-  },
-  {
-    "code": "#1024CMA",
-    "title": "Math Paper",
-    "date": "2025-06-26",
-    "subject": "Math",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/5.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/6.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/7.jpg"
     ]
   },
   {
@@ -381,12 +58,126 @@
     ]
   },
   {
+    "code": "#1024ADE",
+    "title": "Data Entry Paper",
+    "date": "2025-06-08",
+    "subject": "Data Entry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024ade/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024ade/2.jpg"
+    ]
+  },
+  {
+    "code": "#1024APH",
+    "title": "Physics Paper",
+    "date": "2025-06-10",
+    "subject": "Physics",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024aph/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024aph/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024aph/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024aph/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024aph/5.jpg"
+    ]
+  },
+  {
+    "code": "#1024ACH",
+    "title": "Chemistry Paper",
+    "date": "2025-06-13",
+    "subject": "Chemistry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024ach/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024ach/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024ach/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024ach/4.jpg"
+    ]
+  },
+  {
+    "code": "#1024AMA",
+    "title": "Math Paper",
+    "date": "2025-06-14",
+    "subject": "Math",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/6.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/7.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024ama/8.jpg"
+    ]
+  },
+  {
+    "code": "#1024BDE",
+    "title": "Data Entry Paper",
+    "date": "2025-06-16",
+    "subject": "Data Entry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024bde/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024bde/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024bde/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024bde/4.jpg"
+    ]
+  },
+  {
     "code": "#JEE-2025-06-16",
     "title": "Jee Paper",
     "date": "2025-06-16",
     "subject": "Jee",
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-06-16.png"
+    ]
+  },
+  {
+    "code": "#0221BPH",
+    "title": "Physics Paper",
+    "date": "2025-06-18",
+    "subject": "Physics",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0221bph/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0221bph/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0221bph/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0221bph/4.jpg"
+    ]
+  },
+  {
+    "code": "#1024BCH",
+    "title": "Chemistry Paper",
+    "date": "2025-06-19",
+    "subject": "Chemistry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024bch/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024bch/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024bch/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024bch/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024bch/5.jpg"
+    ]
+  },
+  {
+    "code": "#1024BMA",
+    "title": "Math Paper",
+    "date": "2025-06-20",
+    "subject": "Math",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/6.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024bma/7.jpg"
+    ]
+  },
+  {
+    "code": "#1024CDE",
+    "title": "Data Entry Paper",
+    "date": "2025-06-21",
+    "subject": "Data Entry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024cde/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024cde/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1024cde/3.jpg"
     ]
   },
   {
@@ -399,12 +190,63 @@
     ]
   },
   {
+    "code": "#1022APH",
+    "title": "Physics Paper",
+    "date": "2025-06-24",
+    "subject": "Physics",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022aph/6.jpg"
+    ]
+  },
+  {
     "code": "#JEE-2025-06-24",
     "title": "Jee Paper",
     "date": "2025-06-24",
     "subject": "Jee",
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-06-24.png"
+    ]
+  },
+  {
+    "code": "#1024CCH",
+    "title": "Chemistry Paper",
+    "date": "2025-06-25",
+    "subject": "Chemistry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024cch/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024cch/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024cch/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024cch/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1024cch/5.jpg"
+    ]
+  },
+  {
+    "code": "#1024CMA",
+    "title": "Math Paper",
+    "date": "2025-06-26",
+    "subject": "Math",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/6.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1024cma/7.jpg"
+    ]
+  },
+  {
+    "code": "#JEE-2025-06-27",
+    "title": "Jee Paper",
+    "date": "2025-06-27",
+    "subject": "Jee",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/Jee-2025-07-29.png"
     ]
   },
   {
@@ -417,12 +259,74 @@
     ]
   },
   {
+    "code": "#0423ADE",
+    "title": "Data Entry Paper",
+    "date": "2025-06-29",
+    "subject": "Data Entry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423ade/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423ade/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423ade/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423ade/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423ade/5.jpg"
+    ]
+  },
+  {
     "code": "#JEE-2025-06-30",
     "title": "Jee Paper",
     "date": "2025-06-30",
     "subject": "Jee",
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-06-30.png"
+    ]
+  },
+  {
+    "code": "#1024BPH",
+    "title": "Physics Paper",
+    "date": "2025-07-01",
+    "subject": "Physics",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/6.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024bph/7.jpg"
+    ]
+  },
+  {
+    "code": "#0423ACH",
+    "title": "Chemistry Paper",
+    "date": "2025-07-02",
+    "subject": "Chemistry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423ach/6.jpg"
+    ]
+  },
+  {
+    "code": "#0423AMA",
+    "title": "Math Paper",
+    "date": "2025-07-03",
+    "subject": "Math",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/6.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/7.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/8.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/9.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/10.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/11.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423ama/12.jpg"
     ]
   },
   {
@@ -435,12 +339,130 @@
     ]
   },
   {
+    "code": "#0423BDE",
+    "title": "Data Entry Paper",
+    "date": "2025-07-05",
+    "subject": "Data Entry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423bde/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423bde/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423bde/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423bde/4.jpg"
+    ]
+  },
+  {
+    "code": "#SSP1EN",
+    "title": "English Paper",
+    "date": "2025-07-07",
+    "subject": "English",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/SSP1en/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/SSP1en/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/SSP1en/3.jpg"
+    ]
+  },
+  {
+    "code": "#0423CDE",
+    "title": "Data Entry Paper",
+    "date": "2025-07-08",
+    "subject": "Data Entry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423cde/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423cde/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423cde/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0423cde/4.jpg"
+    ]
+  },
+  {
+    "code": "#1024CPH",
+    "title": "Physics Paper",
+    "date": "2025-07-09",
+    "subject": "Physics",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024cph/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024cph/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024cph/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024cph/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024cph/5.jpg"
+    ]
+  },
+  {
+    "code": "#0424BCH",
+    "title": "Chemistry Paper",
+    "date": "2025-07-11",
+    "subject": "Chemistry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0424bch/6.jpg"
+    ]
+  },
+  {
     "code": "#JEE-2025-07-12",
     "title": "Jee Paper",
     "date": "2025-07-12",
     "subject": "Jee",
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-07-12.png"
+    ]
+  },
+  {
+    "code": "#0423BMA",
+    "title": "Math Paper",
+    "date": "2025-07-13",
+    "subject": "Math",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/6.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/7.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/8.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/0423bma/9.jpg"
+    ]
+  },
+  {
+    "code": "#1024AEN",
+    "title": "English Paper",
+    "date": "2025-07-14",
+    "subject": "English",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024aen/5.jpg"
+    ]
+  },
+  {
+    "code": "#0423APH",
+    "title": "Physics Paper",
+    "date": "2025-07-16",
+    "subject": "Physics",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423aph/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423aph/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423aph/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423aph/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/0423aph/5.jpg"
+    ]
+  },
+  {
+    "code": "#0423CCH",
+    "title": "Chemistry Paper",
+    "date": "2025-07-19",
+    "subject": "Chemistry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423cch/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423cch/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423cch/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423cch/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/0423cch/5.jpg"
     ]
   },
   {
@@ -459,28 +481,6 @@
     "subject": "Jee",
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-07-25.png"
-    ]
-  },
-  {
-    "code": "#JEE-2025-06-27",
-    "title": "Jee Paper",
-    "date": "2025-06-27",
-    "subject": "Jee",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/Jee-2025-07-29.png"
-    ]
-  },
-  {
-    "code": "#1024CPH",
-    "title": "Physics Paper",
-    "date": "2025-07-09",
-    "subject": "Physics",
-    "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024cph/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024cph/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024cph/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024cph/4.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1024cph/5.jpg"
     ]
   },
   {
