@@ -583,12 +583,24 @@
     ]
   },
   {
-    "code": "#JEE-2025-08-07",
+    "code": "#JEE-2025-08-06",
     "title": "Jee Paper",
-    "date": "2025-08-07",
+    "date": "2025-08-06",
     "subject": "Jee",
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-08-07.jpg"
+    ]
+  },
+  {
+    "code": "#1022BDE",
+    "title": "Data Entry Paper",
+    "date": "2025-08-07",
+    "subject": "Data Entry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022bde/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022bde/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022bde/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022bde/4.jpg"
     ]
   }
 ]
