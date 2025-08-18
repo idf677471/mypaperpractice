@@ -618,5 +618,23 @@
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022ama/7.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022ama/8.jpg"
     ]
+  },
+  {
+    "code": "#JEE-2025-08-15",
+    "title": "Jee Paper",
+    "date": "2025-08-15",
+    "subject": "Jee",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-08-15.jpg"
+    ]
+  },
+  {
+    "code": "#JEE-2025-08-16",
+    "title": "Jee Paper",
+    "date": "2025-08-16",
+    "subject": "Jee",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-08-16.jpg"
+    ]
   }
 ]
