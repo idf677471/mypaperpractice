@@ -620,6 +620,28 @@
     ]
   },
   {
+    "code": "#1022BPH",
+    "title": "Physics Paper",
+    "date": "2025-08-12",
+    "subject": "Physics",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022bph/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022bph/2.jpg"
+    ]
+  },
+  {
+    "code": "#1022CDE",
+    "title": "Data Entry Paper",
+    "date": "2025-08-14",
+    "subject": "Data Entry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022cde/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022cde/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022cde/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/1022cde/4.jpg"
+    ]
+  },
+  {
     "code": "#JEE-2025-08-15",
     "title": "Jee Paper",
     "date": "2025-08-15",
