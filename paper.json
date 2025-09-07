@@ -686,12 +686,24 @@
     ]
   },
   {
+    "code": "#1022BCH",
+    "title": "Chemistry Paper",
+    "date": "2025-02-09",
+    "subject": "Chemistry",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022bch/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022bch/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022bch/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022bch/4.jpg"
+    ]
+  },
+  {
     "code": "#JEE-2025-09-06",
     "title": "Jee Paper",
-    "date": "2025-09-06",
+    "date": "2025-09-04",
     "subject": "Jee",
     "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-09-06.jpg"
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-09-04.jpg"
     ]
   },
   {
