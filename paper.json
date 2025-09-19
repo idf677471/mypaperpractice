@@ -625,8 +625,7 @@
     "date": "2025-08-12",
     "subject": "Physics",
     "images": [
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022bph/1.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022bph/2.jpg"
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022bph/1.jpg"
     ]
   },
   {
@@ -688,25 +687,42 @@
   {
     "code": "#1022CPH",
     "title": "Physics Paper",
-    "date": "2025-01-09",
+    "date": "2025-09-01",
     "subject": "Physics",
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022cph/1.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022cph/2.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022cph/3.jpg",
-      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022cph/4.jpg"
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ph/1022cph/3.jpg"
     ]
   },
   {
     "code": "#1022BCH",
     "title": "Chemistry Paper",
-    "date": "2025-02-09",
+    "date": "2025-09-02",
     "subject": "Chemistry",
     "images": [
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022bch/1.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022bch/2.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022bch/3.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ch/1022bch/4.jpg"
+    ]
+  },
+  {
+    "code": "#1022BMA",
+    "title": "Math Paper",
+    "date": "2025-09-03",
+    "subject": "Math",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022bma/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022bma/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022bma/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022bma/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022bma/5.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022bma/6.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022bma/7.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022bma/8.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022bma/9.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/ma/1022bma/10.jpg"
     ]
   },
   {
@@ -737,6 +753,19 @@
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0422ade/2.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0422ade/3.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/de/0422ade/4.jpg"
+    ]
+  },
+  {
+    "code": "#1024CEN",
+    "title": "English Paper",
+    "date": "2025-09-07",
+    "subject": "English",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024cen/1.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024cen/2.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024cen/3.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024cen/4.jpg",
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024cen/5.jpg"
     ]
   }
 ]
