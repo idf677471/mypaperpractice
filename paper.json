@@ -726,7 +726,7 @@
     ]
   },
   {
-    "code": "#JEE-2025-09-06",
+    "code": "#JEE-2025-09-04s",
     "title": "Jee Paper",
     "date": "2025-09-04",
     "subject": "Jee",
@@ -766,6 +766,15 @@
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024cen/3.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024cen/4.jpg",
       "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/nios/en/1024cen/5.jpg"
+    ]
+  },
+  {
+    "code": "#JEE-2025-09-19",
+    "title": "Jee Paper",
+    "date": "2025-09-19",
+    "subject": "Jee",
+    "images": [
+      "https://raw.githubusercontent.com/idf677471/mypaperpractice/refs/heads/main/paper/jee/jee-2025-09-19.jpg"
     ]
   }
 ]
